@@ -6,7 +6,7 @@
         <h1>tutorial1 Start Page</h1>
 
         <p> This is the start page for this application, a good place to start your modifications.
-            Just to prove this is live: </p>
+            Just to prove this is live:  Ok good </p>
 
         <p> The current time is: ${currentTime}. </p>
 
